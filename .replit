@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Greedy/Q4.py"
+run = "python Greedy/Q5.py"
